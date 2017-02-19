@@ -1,0 +1,15 @@
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe.config
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.csprojResolveAssemblyReference.cache
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Form1.resources
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Form2.resources
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Form3.resources
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Properties.Resources.resources
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.csproj.GenerateResource.Cache
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.pdb
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\bin\Debug\MySql.Data.dll
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.exe
+c:\users\łukasz\documents\visual studio 2015\Projects\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.pdb
+C:\Users\Łukasz\Desktop\BD2\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe.config
+C:\Users\Łukasz\Desktop\BD2\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.exe
+C:\Users\Łukasz\Desktop\BD2\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.pdb
